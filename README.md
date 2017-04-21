@@ -1,7 +1,11 @@
 # PIXI.js Bootstrap
 
 This is a little bootstrap repository I created for Ludum Dare, feel free to fork it and use it
-as a basis for your game. This includes:
+as a basis for your game. 
+
+<center><img src="http://i.imgur.com/vo0NBfF.png" /></center>
+
+This includes:
 
 * PIXI.js
 * Stats.js (FPS Counter)
